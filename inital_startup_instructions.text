@@ -1,0 +1,4 @@
+step 1: npm start
+step 2: mongod
+step 3: nodemon otherServer.js
+step 4: open Google chrome
